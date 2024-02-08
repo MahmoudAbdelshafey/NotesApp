@@ -6,7 +6,7 @@ class HomeNotesView extends StatelessWidget {
 static const String routeName = "HomeNotesView";
   @override
   Widget build(BuildContext context) {
-    return  Scaffold(
+    return const  Scaffold(
 
       body: NotesViewBody(),
     );
