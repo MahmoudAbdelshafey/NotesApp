@@ -11,6 +11,7 @@ class CustomNoteItem extends StatelessWidget {
           bottom: 25,
           left: 10
       ),
+      margin: EdgeInsets.only(bottom: 20),
       decoration: BoxDecoration(
         color: const Color(0xffFFCC80),
         borderRadius: BorderRadius.circular(20),
